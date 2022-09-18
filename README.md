@@ -15,6 +15,7 @@ Android
 
 -	AI hub에서 제공중인 “한국어 감정 정보가 포함된 단발성 대화 데이터셋”을 학습 데이터로 사용하기로 결정
 - 앱 디자인 틀 제작 완료
+- 앱 틀 실제 앱으로 개발 완료 ([CaerangEx_2022_prac1](https://github.com/Kim-Yong-Soo/CaerangEx_2022_prac1/tree/master))
 
 ## 사용 데이터
 [한국어 감정 정보가 포함된 단발성 대화 데이터셋](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=270)
